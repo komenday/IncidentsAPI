@@ -12,5 +12,3 @@ contact last name,
 contact email,
 incident description,
 }
-
-All verification requirements are complied with.
